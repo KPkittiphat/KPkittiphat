@@ -4,7 +4,7 @@ Hi 👋 My name is Kittiphat Phengnamkham
 Developer,
 ----------
 
-I'm learning and developing web applications amd programming stuff . Never stop Learning
+I'm learning and developing web applications and programming stuff . Never stop Learning
 
 * 🌍  I'm based in Bangkok
 * ✉️  You can contact me at [kittiphatphengnamkham34@gmail.com](mailto:kittiphatphengnamkham34@gmail.com)
