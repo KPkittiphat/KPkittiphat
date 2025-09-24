@@ -9,7 +9,7 @@ I'm learning and developing web applications and programming stuff . Never stop 
 * 🌍  I'm based in Bangkok
 * ✉️  You can contact me at [kittiphatphengnamkham34@gmail.com](mailto:kittiphatphengnamkham34@gmail.com)
 * 🚀  I'm currently working on [My Ecommerch Web app](http://mpp-shop.vercel.app/)
-* 🧠  I'm learning Java, Reactjs, Nextjs, Nodejs, Typscript, Javascript, Expressjs
+* 🧠  I'm learning Java, Reactjs, Nodejs, Typscript, Javascript, Expressjs
 
 ### Skills
   
